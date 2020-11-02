@@ -122,6 +122,7 @@ Notes on the above Functional Requirements.
 ---
 ### Notes:
 
-Notes on General Items
+Great work Jamie! Really amazed that you were able power through and get this done in a day after traveling! 
+Keep up all the hard work. 
 
 ```
